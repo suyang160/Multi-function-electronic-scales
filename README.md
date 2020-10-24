@@ -22,6 +22,10 @@ This is an eletronic design when my team attended the 5th Electronic Design Cont
 * Piezo Buzzer
 
 **Project pictures**:
-![avatar](pictures/1.jpg)
-![avatar](pictures/2.jpg)
-
+<div align="center">
+<img src="pictures/1.jpg" width="60%" align="center">
+</div>
+<br/>
+<div align="center">
+<img src="pictures/2.jpg" width="60%" align="center">
+</div>
